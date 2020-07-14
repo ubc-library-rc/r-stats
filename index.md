@@ -3,7 +3,7 @@ layout: default
 title: Overview
 nav_order: 1
 ---
-# Statistical Analysis with R
+# R for Statistical Analysis
 
 R is a popular free software program used for quantitative analysis in both the humanities and sciences. Many state-of-the-art models and various graphs are available in R. This workshop covers data preparation and management, descriptive statistics, and common statistical analysis (T-test, ANOVA, correlation, regression). This workshop is for participants who already have a basic understanding of R. 
 

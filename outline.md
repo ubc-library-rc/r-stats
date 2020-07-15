@@ -17,11 +17,13 @@ has_toc: false
 
 | Time | Content
 | --- | ---
-| 0:00 | Overview of quantitative research process
-| 0:00 | RStudio review and data setup
-| 0:00 | Exercise 1
-| 0:00 | Descriptive statistics
-| 0:00 | Inferential statistics
+| 0:00 | Introduction
+| 0:05 | RStudio review and data setup
+|      | _Exercise 1_
+| 0:20 | Descriptive statistics
+| 0:40 | _Break_
+| 0:45 | Inferential statistics
+| 1:25 | Wrap-up
 
 _Actual schedule may vary depending on group needs_
 

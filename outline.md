@@ -19,10 +19,10 @@ has_toc: false
 | --- | ---
 | 0:00 | Introduction
 | 0:05 | RStudio review and data setup
-|      | _Exercise 1_
+| 0:15 | _Exercise 1_
 | 0:20 | Descriptive statistics
-|      | _Exercise 2_
-|      | _Exercise 3_
+| 0:35 | _Exercise 2_
+| 0:45 | _Exercise 3_
 | 0:55 | _Break_
 | 1:00 | Inferential statistics
 | 1:50 | Wrap-up

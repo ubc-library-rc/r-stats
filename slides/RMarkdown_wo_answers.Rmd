@@ -1,5 +1,5 @@
 ---
-title: "R for Statistical analysis (with answers)"
+title: "R for Statistical analysis (without answers)"
 author: "Jeremy Buhler and Albina Gibadullina"
 date: "November 12, 2020"
 output: html_document

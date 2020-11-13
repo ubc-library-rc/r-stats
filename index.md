@@ -8,8 +8,8 @@ nav_order: 1
 R is a popular free software program used for quantitative analysis in both the humanities and sciences. Many state-of-the-art models and various graphs are available in R. This workshop covers data preparation and management, descriptive statistics, and common statistical analysis (T-test, ANOVA, correlation, regression). This workshop is for participants who already have a basic understanding of R. 
 
 Workshop slides:
-- [HTML format](slides/r-for-statistical-analysis.html){:target="_blank"}
-- [PDF format](slides/r-for-statistical-analysis.pdf){:target="_blank"}
+- [HTML format](slides/r-for-statistical analysis.html){:target="_blank"}
+- [PDF format](slides/r-for-statistical analysis.pdf){:target="_blank"}
 
 ## Pre-workshop setup
 To participate fully you will need to install the latest versions of R and RStudio on your computer ahead of time.

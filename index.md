@@ -11,6 +11,10 @@ Workshop slides:
 - [HTML format](slides/r-for-statistical analysis.html){:target="_blank"}
 - [PDF format](slides/r-for-statistical analysis.pdf){:target="_blank"}
 
+R markdown files:
+- [R Markdown without answers](slides/RMarkdown_wo_answers.Rmd){:target="_blank"}
+- [R Markdown with answers](slides/RMarkdown_answers.Rmd){:target="_blank"}
+
 ## Pre-workshop setup
 To participate fully you will need to install the latest versions of R and RStudio on your computer ahead of time.
 
